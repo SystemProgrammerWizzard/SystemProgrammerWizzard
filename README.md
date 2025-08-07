@@ -5,7 +5,7 @@ I am an Embedded Systems Engineer specializing in IoT sensor integration, custom
 - 🔭 I’m currently working on embedded sensor drivers for ENS160, AHT21, and VL53L1X; developing **AnNamix**, a Vietnamese-focused Linux distro; and enhancing **home_assistance-** for privacy-first home automation.  
 - 🌱 I’m learning Rust for systems programming, advanced Yocto/BitBake workflows, and C++ GUI development for embedded devices.  
 - 👯 I’m open to collaborating on IoT projects, embedded Linux modules, and automation ecosystems.  
-- 📫 How to reach me: **your.email@example.com**  
+- 📫 How to reach me: **tatandat110105@gmail.com**  
 - 😄 Pronouns: **He/Him**
 
 #### 📕 &nbsp;**Featured Repositories:** 
